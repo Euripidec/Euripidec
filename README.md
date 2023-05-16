@@ -1,7 +1,5 @@
 
 <a target="_blank" href="https://face-detect-a323.onrender.com/"><img width="250" align="right" src="https://github.com/Euripidec/Euripidec/assets/111103974/dfc7ce39-27c7-4136-9242-bdced744e48e"></a>
-
-
 # 😈 Euripide Carpio
 
 **`Digital Alchemist (Front-end/Back-end/Databases)`**
@@ -39,3 +37,20 @@ In the shadows of my enigmatic existence, I manifest as a multifaceted being, an
   <a href="https://wa.me/8293876773">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />        
   </a>&nbsp;&nbsp;
+ 
+ #
+
+### 📊 Stats
+
+<p>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Euripidec&theme=synthwave" width="350"></a>
+</p>
+
+#
+
+ <h3>👨‍💻 My Coding Journey</h3>
+ 
+  One night, I came across an anime called Serial Experiments Lain, which intrigued me with its mysterious themes. It sparked a desire within me to understand the digital world and learn how to code. Thanks to this new found spark, curiosity drove me deeper into the internet to explore long forgotten websites. This started my interest in unique ideas for web design and coding. (As well as the esoteric since most of those websites tend to lean towards that). I dabbled on and off in my younger years with programming, even creating a media server for my family out of a raspberry pi. However life got in the way of things and unfortunately I left coding at the way side.
+
+  But with the recent boom in Ai it reinvigorated the child in me that stared at a glowing blue screen until the sun rose up, admiring code that really only it's writer can understand. I enrolled in UNIBE (Universidad Iberoamericana) as a network engineer so that I can grasp the full context of what makes the world wide web work. Serial Experiments Lain had ignited a passion in me, transforming me from a curious observer into an avid coder. I became the protagonist of my own story, embarking on a thrilling adventure of exploration and mastery in the world of technology.
+
