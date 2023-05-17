@@ -1,5 +1,5 @@
 
-<a target="_blank" href="https://face-detect-a323.onrender.com/"><img width="250" align="right" src="https://github.com/Euripidec/Euripidec/assets/111103974/dfc7ce39-27c7-4136-9242-bdced744e48e"></a>
+<a target="_blank" href="https://delightful-pika-01bac1.netlify.app/"><img width="250" align="right" src="https://github.com/Euripidec/Euripidec/assets/111103974/dfc7ce39-27c7-4136-9242-bdced744e48e"></a>
 # 😈 Euripide Carpio
 
 **`Digital Alchemist (Front-end/Back-end/Databases)`**
