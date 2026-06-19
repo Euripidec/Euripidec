@@ -45,7 +45,7 @@
 - Dominican rock/punk/dembow scene — calling out classism and gatekeeping in DR music culture
 - PS2-era gaming & PCSX2 emulation tinkering
 - Dominican cultural & intellectual history
-- Dark, gothic, retro-inspired design — always
+- Punk — always
 
 ## 📊 GitHub Stats
 
