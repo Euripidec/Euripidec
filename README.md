@@ -1,56 +1,73 @@
+# Hey, I'm Euri ψ(｀∇´)ψ
 
-<a target="_blank" href="https://delightful-pika-01bac1.netlify.app/"><img width="250" align="right" src="https://github.com/Euripidec/Euripidec/assets/111103974/dfc7ce39-27c7-4136-9242-bdced744e48e"></a>
-# 😈 Euripide Carpio
+### Punk Rock Web Developer · IT Support · Dark & Retro Builds
+**DaemonSoftworks** — Santo Domingo, Dominican Republic 🇩🇴
 
-**`Digital Alchemist (Front-end/Back-end/Databases)`**
+<a target="_blank" href="https://euripidecarpio.neocities.org"><img width="250" align="right" style="border-radius: 40px;" src="https://github.com/Euripidec/Euripidec/assets/111103974/dfc7ce39-27c7-4136-9242-bdced744e48e"></a>
 
-In the shadows of my enigmatic existence, I manifest as a multifaceted being, an enigmatic force entwined in the URLS of the World Wide Web. Known as the "Digital Alchemist," I navigate the labyrinthine corridors of reality and virtuality. As the Digital Alchemist, I transmute mere ideas into ethereal digital realities. With my command over technology, my visionary gaze pierces the depths of perception, and my restless spirit dances upon the fringes of innovation. With a tapestry woven from technical virtuosity, visionary acumen, and an innovative mindset, I orchestrate a symphony where code and the boundless wellspring of creativity interweave. Through this alchemical fusion, I channel the essence of code, crafting digital masterpieces that transcend the boundaries of convention and reshape the very fabric of our perception.
+<br>
+<br>
+<br>
 
-- 🔭 I’m currently working on simple AIs,
-- 🌱 I’m currently learning Python
-- 💬 Ask me about #Javascript #ReactJS #NodeJS
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: My dream is to create therapeutic Ais!
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=18&pause=1200&color=2E8B6F&center=true&vCenter=true&width=560&lines=Coding+is+punk+rock;Coding+since+age+10;Building+dark%2C+retro-inspired+interfaces;B.Eng.+in+ICT+%40+UNIBE;Open+to+Frontend+%2F+IT+roles)](https://github.com/Euripidec)
 
-### 🧰 Languages and Tools
+<br clear="both">
 
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<br />
+## 🖤 About Me
 
-#
-<a href="www.linkedin.com/in/euripide-carpio-63a386152">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:euripidec@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  <a href="https://wa.me/8293876773">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />        
-  </a>&nbsp;&nbsp;
- 
- #
+- 🎓 Studying **B.Eng. in Information & Communication Technology** at UNIBE
+- 💻 Coding since I was 10 — self-taught roots, formal training now
+- 🔍 Actively job hunting — **Frontend Dev · IT Support · Database Admin · VA roles**
+- 🗣️ Bilingual: English / Spanish (Dominican)
+- 🌑 Aesthetic: punk first, dark and retro right behind it — it's in everything I build
 
-### 📊 Stats
+## 🧰 Tech Stack
 
-<p>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Euripidec&theme=synthwave" width="350"></a>
-</p>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Sass](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-#
+## 🔭 Currently
 
- <h3>👨‍💻 My Coding Journey</h3>
- 
-  One night, I came across an anime called Serial Experiments Lain, which intrigued me with its mysterious themes. It sparked a desire within me to understand the digital world and learn how to code. Thanks to this new found spark, curiosity drove me deeper into the internet to explore long forgotten websites. This started my interest in unique ideas for web design and coding. (As well as the esoteric since most of those websites tend to lean towards that). I dabbled on and off in my younger years with programming, even creating a media server for my family out of a raspberry pi. However life got in the way of things and unfortunately I left coding at the way side.
+- Building out 0rt1's CPT code frequency calculator
+- Polishing my Neocities site and CI/CD pipeline
+- Open to frontend, IT support, and admin/VA opportunities — let's talk
 
-  But with the recent boom in Ai it reinvigorated the child in me that stared at a glowing blue screen until the sun rose up, admiring code that really only it's writer can understand. I enrolled in UNIBE (Universidad Iberoamericana) as a network engineer so that I can grasp the full context of what makes the world wide web work. Serial Experiments Lain had ignited a passion in me, transforming me from a curious observer into an avid coder. I became the protagonist of my own story, embarking on a thrilling adventure of exploration and mastery in the world of technology.
+## 🎸 Beyond the Code
 
+- Punk to the core — music, attitude, DIY ethos, all of it
+- Dominican rock/punk/dembow scene — calling out classism and gatekeeping in DR music culture
+- PS2-era gaming & PCSX2 emulation tinkering
+- Dominican cultural & intellectual history
+- Dark, gothic, retro-inspired design — always
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Euripidec&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2E8B6F&icon_color=2E8B6F&text_color=c9d1d9" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Euripidec&theme=dark&hide_border=true&background=0D1117&ring=2E8B6F&fire=2E8B6F&currStreakLabel=2E8B6F" width="48%"/>
+</div>
+
+## 📫 Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-euripidecarpio.neocities.org-2E8B6F?style=for-the-badge)](https://euripidecarpio.neocities.org)
+[![GitHub](https://img.shields.io/badge/GitHub-Euripidec-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Euripidec)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/euripide-carpio-63a386152)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:euripidec@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8293876773)
+
+</div>
+
+<div align="center">
+
+*built in the dark, deployed at dawn* 🌒
+
+</div>
