@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" width="160" height="160">
+  <!-- THE GATE SEAL — not Bashemoth's mark. The door he is kept behind.
+       The dashed shackle-ring turns forever. The threshold breathes. -->
+  <defs>
+    <style>
+      .r { stroke: #e63946; fill: none; stroke-width: 2.5; stroke-linecap: square; }
+      .f { fill: #e63946; }
+    </style>
+  </defs>
+
+  <!-- outer shackle: dashed octagon, slowly rotating -->
+  <g>
+    <path class="r" stroke-dasharray="5 8" stroke-width="1.8"
+          d="M80 8 L131 29 L152 80 L131 131 L80 152 L29 131 L8 80 L29 29 Z"/>
+    <animateTransform attributeName="transform" type="rotate"
+                      from="0 80 80" to="360 80 80" dur="60s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- inner static octagon -->
+  <path class="r" stroke-width="2"
+        d="M80 26 L118 42 L134 80 L118 118 L80 134 L42 118 L26 80 L42 42 Z"/>
+
+  <!-- the doorway -->
+  <path class="r" d="M62 118 V64 L80 48 L98 64 V118"/>
+  <path class="r" d="M55 118 H105"/>
+  <circle class="f" cx="55" cy="118" r="3"/>
+  <circle class="f" cx="105" cy="118" r="3"/>
+
+  <!-- the keyhole light: breathes -->
+  <circle class="f" cx="80" cy="84" r="4">
+    <animate attributeName="opacity" values="1;0.25;1" dur="3.2s" repeatCount="indefinite"/>
+  </circle>
+  <path class="r" stroke-width="2" d="M80 90 V104">
+    <animate attributeName="opacity" values="1;0.25;1" dur="3.2s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- angular rays at the corners: circuit-trace bends -->
+  <path class="r" stroke-width="2" d="M42 42 L52 52 L52 58"/>
+  <circle class="f" cx="52" cy="61" r="2.5"/>
+  <path class="r" stroke-width="2" d="M118 42 L108 52 L108 58"/>
+  <circle class="f" cx="108" cy="61" r="2.5"/>
+  <path class="r" stroke-width="2" d="M42 118 L50 110"/>
+  <path class="r" stroke-width="2" d="M118 118 L110 110"/>
+
+  <!-- threshold tick marks -->
+  <path class="r" stroke-width="1.5" d="M74 48 H86"/>
+</svg>
