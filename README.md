@@ -42,7 +42,7 @@ MOTD......: "It takes an idiot to do cool things.
              That's why it's cool." — Haruko, FLCL
 ```
 
-### // HANGAR — DEPLOYED WORKINGS
+### // SHELLS — DEPLOYED WORKINGS
 
 | FRAME | DESIGNATION | CLASS | SCHEMATIC |
 |:-----:|:------------|:------|:---------:|
