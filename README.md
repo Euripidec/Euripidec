@@ -66,8 +66,8 @@ stateDiagram-v2
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Euripidec&show_icons=true&hide_border=false&bg_color=0d0d0f&title_color=e63946&text_color=e8e6e3&icon_color=e63946&border_color=2a2a31&custom_title=ARCHON%20TELEMETRY" height="160" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Euripidec&layout=compact&hide_border=false&bg_color=0d0d0f&title_color=e63946&text_color=e8e6e3&border_color=2a2a31&custom_title=TONGUES" height="160" alt="languages" />
+<img src="https://github-stats-extended.vercel.app/api?username=Euripidec&show_icons=true&hide_border=false&bg_color=0d0d0f&title_color=e63946&text_color=e8e6e3&icon_color=e63946&border_color=2a2a31&custom_title=ARCHON%20TELEMETRY" height="160" alt="stats" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Euripidec&layout=compact&hide_border=false&bg_color=0d0d0f&title_color=e63946&text_color=e8e6e3&border_color=2a2a31&custom_title=TONGUES" height="160" alt="languages" />
 
 </div>
 
