@@ -70,7 +70,7 @@ stateDiagram-v2
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Euripidec&layout=compact&hide_border=false&bg_color=0d0d0f&title_color=e63946&text_color=e8e6e3&border_color=2a2a31&custom_title=TONGUES" height="160" alt="languages" />
 
 </div>
-
+<br>
 <details>
 <summary><b>// CLASSIFIED — S010M0N EYES ONLY</b></summary>
 <br/>
