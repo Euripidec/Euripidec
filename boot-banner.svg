@@ -22,7 +22,7 @@
       <path d="M68 2 l8 0 -6 6 -8 0 z"/><path d="M88 2 l8 0 -6 6 -8 0 z"/><path d="M108 2 l8 0 -6 6 -8 0 z"/>
       <path d="M128 2 l8 0 -6 6 -8 0 z"/><path d="M148 2 l8 0 -6 6 -8 0 z"/><path d="M168 2 l8 0 -6 6 -8 0 z"/>
     </g>
-    <text x="806" y="9" text-anchor="end" font-size="8" letter-spacing="2" fill="#8a8a92">DAEMONSOFTWORKS // EST. AGE 10</text>
+    <text x="806" y="9" text-anchor="end" font-size="8" letter-spacing="2" fill="#8a8a92">HEAD ARCHON // AGE 27</text>
   </g>
 
   <!-- mini sigil, dashed ring turning -->
@@ -44,7 +44,7 @@
   <!-- boot log: lines reveal on a 14s loop -->
   <g font-size="14" fill="#c9cba3" fill-opacity="0.85">
     <text x="170" y="52">
-      SHELL//OS v3.0 — COMPANION UNIT INITIALIZING
+      SHELL//OS v2.0.23 — COMPANION UNIT INITIALIZING
       <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.04;0.06;1" dur="14s" repeatCount="indefinite"/>
     </text>
     <text x="170" y="78">
